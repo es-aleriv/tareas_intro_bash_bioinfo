@@ -16,7 +16,7 @@
     
 4) Memoria RAM
 - RAM instalada: 24 GB.
-- Tipo y velocidad: Memoria unificada LPDDR5X (soldada al chip), con velocidades de hasta 7,500 MHz.
+- Tipo y velocidad: Memoria unificada LPDDR5X (soldada al chip). No se especifica la velocidad.
 - Capacidad máxima: 24 GB.
 
 5) Almacenamiento
